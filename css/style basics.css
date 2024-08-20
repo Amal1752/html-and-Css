@@ -1,0 +1,44 @@
+body{
+    background-image: url("/images/apple.jfif"); 
+    background-size: cover;
+}
+#image_2{
+    width: 50%;
+    height: auto;
+}
+#para_1{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+background-color: aliceblue;}
+#para_2{
+    font: 600;
+    font-size: small;
+    background-color: aqua;
+}
+#para_3{
+    font-style: italic;
+    color: aquamarine;
+}
+.group1{
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px double white;
+}
+.group3{
+list-style-type: decimal-leading-zero;
+}
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin: 5% 30% 5% 20%;
+}
+table td,th{
+    border-right: 5px solid;
+    border-color: black;
+}
+table td,th{
+    border-bottom: 5px solid ;
+    border-color: black;
+}
+table td{
+    padding: 7px 10px 7px 10px;
+}
